@@ -1,5 +1,4 @@
-# Crimson Flags
-## Award Winning Roommate Matcher
+# 🚩Crimson Flags 🚩 - Award Winning Roommate Matcher
 
 [Check out Crimson Flag's Awards](https://zion.luddy.indiana.edu/info-capstone-2022/crimson-flags)
 
