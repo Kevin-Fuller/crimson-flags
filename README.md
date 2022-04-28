@@ -8,3 +8,18 @@ In the Indiana University Informatics I494 Capstone Class, teams of students wer
 
 Crimson Flags was built over the course of two semesters by me and group of 3 other students, each with a different skillset. The first semester was dedicated towards planning (concept, design, database structure, user testing, and ethical implications), while the second semester was reserved for implemenation (database creation, dummy data creation, web-programming, and deployment). Groups were required to use PHP and not permitted to use any form of framework (React, Bootstrap, Tailwind, Etc). Having the largest background in web development, I took on the role of project lead and had a hand in nearly every feature implemented into the web app.
 
+### Features:
+- Google Login
+- Personality Quiz with 'Crimson Flag' Feature 
+- Edit/ Delete Profile
+- Review Match
+- User Permissions
+- Unmatch User
+- Admin Features: (Edit Quiz, Approve/ Deny Verification Requests, View Reports, Ban Users, Promote/ Demote Users to Admin/ Basic User)
+- Google Maps Apartment Viewing
+- Matching Algorithm
+- User Verification
+- Notifications
+- Accept/ Deny Match
+- Chat Messaging
+- Match with Email/ Phone Number
